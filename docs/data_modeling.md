@@ -150,3 +150,6 @@ Indexes:
 - index(actor_id)
 - index(entity_type, entity_id)
 
+## DB ERD
+
+![DB ERB](images/db_erd.png)
