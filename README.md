@@ -1,4 +1,4 @@
-# PayMe - GimmeMyMoney
+# PayMe
 The objective of this application is to centralize all payment processing and billing operations onto a single platform, exclusively utilizing one payment gateway.
 
 By abstracting payment flows behind a unified domain, the platform aims to:
