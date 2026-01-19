@@ -10,7 +10,7 @@ By abstracting payment flows behind a unified domain, the platform aims to:
 
 The application follows Ruby and Rails conventions, prioritizing simplicity, explicit boundaries, and clear domain modeling.
 ## The API:
-This will be a REST API designed to centralize and handle all billing interations, including customers, invoices, subscriptions, and payments.
+This will be a REST API designed to centralize and handle all billing interations, including customers, invoices, subscriptions, and orders.
 ## Tech Specs:
 - Ruby 3+
 - Rails 7+
