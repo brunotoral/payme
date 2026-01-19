@@ -318,7 +318,7 @@ customer = PayMe::Customer.create(
 ### Create subscriptions in *Payme* with:
 The same `billing_interval`, and set `last_payment_at` to the last successful *ASAAS* payment
 ```ruby
-last_payment_at = asaas.last_successful_payment(subscription)
+last_payment_at = asaas.last_successful_payment
 
 PayMe::Subscription.create(
   customer_id: customer.id,
